@@ -1,0 +1,22 @@
+{
+    "name": "you-re-doing-it-wrong",
+    "displayName": "You're Doing it Wrong",
+    "description": "If you're using color schemes to help you write code, then you're doing it wrong.",
+    "version": "0.0.1",
+    "publisher": "Sal Rahman",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "You're Doing it Wrong",
+                "uiTheme": "vs",
+                "path": "./themes/you-re-doing-it-wrong.json"
+            }
+        ]
+    }
+}
